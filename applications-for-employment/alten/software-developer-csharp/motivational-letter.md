@@ -173,12 +173,12 @@ https://www.alten-engineering.de/en/career/faq.html
 
 
 
-## English Skills
+## English skills
 
-1. Reading (documentation, code, correspondence);
+1. Reading (documentation, code, technical journalism, professional literature, correspondence);
 2. Writing (code, documentation, correspondence);
 3. Listening (to multimedia content);
-4. Speaking;
+4. Speaking.
 
 ## Motivation
 
@@ -204,7 +204,7 @@ Targeting questionaries / WPF. Building the right thing before building somethin
 - **Salary requirement in € per year** in contrast to the (inclusive lower bound of the) **monthly** salarly (range) given in the job description, ignoring the possibility of ranged expectations (depending on conditions) from the applicant's perspective; marked as mandatory, being non-mandatory ("No salary requirements"); with inconsequent pluralization (requirement / requrement**s**).
 - (Nonexistent) English localization of: "Mitarbeiterempfehlung", "Plakatkampagne", "Sonstige Aushänge", "Bewerbungsmappencheck", "Deutschlandstipendium", "Infostand", "Studententag", etc.
 - **Where did you hear about ALTEN?\*** has drop-down values of different magnitudes (regarding scope of the used terms) like "Facebook", "Studyflix", and "Website" (Facebook and Studyflix being corporate entities [portals / social networks] having websites); the latter seems to represent "Somewhere else on the Internet [newsgroup, chat, forum, etc.] / Unspecified", meaning being not strictly mandatory, like 
-- **At which job market did you find out about us?\*** given "Job market" as an definite answer to the previous question with the "Other job portals" drop-down value available as an answer for this one, extrapolated in the following sample:
+- **At which job market did you find out about us?\*** given "Job market" as an definite answer to the previous question with the "Other job portals" drop-down value available as an answer for this one, hyperbolized in the following sample:
 
 ```
 Which fruits do you like the most?*
