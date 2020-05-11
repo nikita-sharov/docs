@@ -23,7 +23,7 @@ I am a software developmer with many years of experience, gaining in-depth domai
 
 > Multifaceted projects. Competent teams and excellent prospects for your career. We offer a range of different tasks with a guarantee you will gain experience and expertise.
 
-Multifaceted personality. Competence and excellent prospects for your projects. I cover a range of differen tasks continuously gaining experience and expertise.
+Multifaceted personality. Competence and excellent prospects for your projects. I cover a range of different tasks continuously gaining experience and expertise.
 
 > Join our Team and find your ideal start at ALTEN Austria.
 

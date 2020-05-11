@@ -35,12 +35,11 @@ The enthusiasm of the highly qualified me is something that benefits my employee
 > In one of our branches or on-site with our clients, we combine diverse talents on a mission whose assignment is to support, advise, solve problems and create innovations and thus ensure that your projects are brought to fruition. 
 
 
-In the office or on-site with our clients, given quiet working condition, I combine my diverse talents on a mission whose assignment is to support, advise, solve problems and create innovations and thus ensure that your projects are brought to fruition. 
+In the office or on-site with your clients, given quiet working conditions, I combine my diverse talents on a mission whose assignment is to support, advise, solve problems and create innovations and thus ensure that your projects are brought to fruition. 
 
 > We are there at your side throughout the whole development process – from inception to serial production.
 
-I am there at your side throughout the whole development process – from inception to maintenance.
-
+I'm there at your side throughout the whole development process – from inception to maintenance.
 
 > With its know how and experience, ALTEN is able to develop new products and execute engineering projects from A to Z anywhere in the world. 
 
@@ -82,7 +81,7 @@ Our locations
 
 Living in Graz
 
-I have no immoveable property, no pets, no plants - willing to move.
+I have no immoveable property, no pets, no plants - no obligations or liabilities - willing to move.
 
 ## Business Model
 
@@ -131,3 +130,6 @@ Our guidelines for responsible actions are summarised in our Code of Conduct.
 More about the ALTEN Code of Conduct
 
 https://www.alten-engineering.de/en/company/certificates/code-of-conduct.html
+
+https://www.contributor-covenant.org/version/2/0/code_of_conduct/
+
