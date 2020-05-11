@@ -1,5 +1,12 @@
 # ALTEN Code of Conduct
 
+https://www.alten.at/en/company/responsibility/code-of-conduct.html
+
+Missing "The Ten Principles of the Global Compact in overview"
+
+https://www.alten.at/wp-content/uploads/2017/04/ALTEN-Code-of-Conduct-small.pdf
+https://www.alten-engineering.de/en/company/certificates/code-of-conduct.html
+https://www.alten-engineering.de/wp-content/uploads/2020/01/code-of-conduct-2020-EN-1.pdf
 
 
 ## Chairman‘s Introduction
