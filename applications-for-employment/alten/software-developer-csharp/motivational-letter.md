@@ -1,6 +1,31 @@
 # Software Developer C#
 
-Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement from / renewed on 30.04.2020, s. [print version](media/karriere.at.pdf)) as on [alten.at](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst/) (s. [print version](media/alten.at.pdf)) for Graz.
+Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement from / renewed on 5/15/2020, s. [print version](media/karriere.at.pdf)) as on [alten.at](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst/) (s. [print version](media/alten.at.pdf)) for Graz.
+
+## Job posting
+
+- Banner, text in German ("Jeder Ingenieur ist anders - unsere Projekte sind es auch."); rasterized (no overlay)
+- "1 Konzern. 1000 Einstiegswege." / "1 Group. 1000 entry routes." + "Spannende Aufgaben für die besten Köpfe." + "ALTENative Karierre / careers. ALTENative application" + "Jeder Ingenieur ist anders [...]" "Every engineer is different"
+- Link-Pfad "3461-software-developer-c--.net-oracle-semiconductor-bst" (Oracle)
+
+## Advertisement
+
+I'm interested in 
+
+- a wide variety of different assignments
+- an interdisciplinary team
+- in various high-tech sectors
+
+Tasks
+
+- in the semiconductor industry
+- stabilize the TCE architecture
+
+According to my (superficial, quick search based) understanding, TCE is an open
+
+> **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
+
+written in C/C++ (more than 99% by https://github.com/pjaaskel, according GitHub)
 
 ## Short letter
 
@@ -171,18 +196,38 @@ https://www.alten-engineering.de/en/career/faq.html
 > What type of employees is ALTEN looking for?
 
 
+## 
 
+Reisebereitschaft im regionalen Verkehr. Kein Führerschein. Schengener Abkommen
+
+Nachdem ich keinen Führerschein habe, ist meine Reisebereitschaft im regionalen Verkehr beschränkt (auf öffentliche Verkehrmittel).
 
 ## English skills
+
+in descending order by experience
 
 1. Reading (documentation, code, technical journalism, professional literature, correspondence);
 2. Writing (code, documentation, correspondence);
 3. Listening (to multimedia content);
 4. Speaking.
 
+Pleaso note, that I have not received any feedback on my written English since school (therefore I can't guarantee flawless style and grammar.)
+
+I looks like my peers can understand me.
+
+For my German skills, being my second native language, see https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md. 
+
+## Location
+
+Aufentahltstitel (legal status / residence permit), "Daueraufenthalt - EU" ("freier Zugang zum Arbeitsmarkt"); 
+
 ## Motivation
 
+## Perfect job
 
+Möglichst effektiver und effizienter Umgang mit allen meinen Ressourcen, auch in Entwicklung über Zeit, bestmögliche Entfaltung des Protentials.
+
+Lösung reeller Probleme reeller Menschen, nicht bürokratischer Hürden, innerpolitischer Intrigen, persönlich-individueller Ambitionen der Mitbeteiligten.
 
 ## Online application form
 
@@ -239,8 +284,8 @@ Consistency is key:
 |E-mail|Email address|
 |Short letter/Comments|Your message|
 
-Please note, that salutation is not mandatory on your contact form, which makes "addressing properly and personally" (from your application form) less important to you, giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
+Please note, that salutation is not mandatory on your contact form, which makes "addressing properly and personally" (from your application form) less important to you, while giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
 
-> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+> ~~A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.~~   
 >
 > — <cite>[Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)</cite>
