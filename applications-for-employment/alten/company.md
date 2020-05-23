@@ -35,7 +35,7 @@ The enthusiasm of the highly qualified me is something that benefits my employee
 > In one of our branches or on-site with our clients, we combine diverse talents on a mission whose assignment is to support, advise, solve problems and create innovations and thus ensure that your projects are brought to fruition. 
 
 
-In the office or on-site with your clients, given quiet working conditions, I combine my diverse talents on a mission whose assignment is to support, advise, solve problems and create innovations and thus ensure that your projects are brought to fruition. 
+In the office or on-site with your clients, given quiet working conditions, I combine my diverse talents to support, advise, solve problems and create innovations. 
 
 > We are there at your side throughout the whole development process – from inception to serial production.
 

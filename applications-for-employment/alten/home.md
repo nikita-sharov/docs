@@ -10,7 +10,7 @@ Nikita Sharov. The software engineering (as a) service provider in Austria.
 
 > We are a development service provider **with many years of experience**, in-depth industry knowledge and expert knowledge in all service areas. Whether automotive, aerospace, energy or medical technology, IT, telecommunications or semiconductor industry: **we develop, design, program, calculate, test and manage projects always in the direction of success – from the idea to series production. As a development service provider and technology partner with strong consulting capabilities, we always enrich you with individually tailored solutions. Get to know us!
 
-I am a software developmer with many years of experience, gaining in-depth domain knwoledge and expert knowledge in any service area required: I develop, design, program, document, test and manage projects always in the direction of success - from the idea to the deployment and maintenance. As a development service provider and technology partner with strong consulting capabilities, I always enrich you with individually tailored solutions. Get to know me!
+I am a software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required: I develop, design, program, document, test and manage projects from the idea to the deployment and maintenance. As a development service provider and technology partner with strong consulting capabilities, I always enrich you with individually tailored solutions. Get to know me!
 
 ## What characterizes me
 
@@ -33,7 +33,7 @@ Multifaceted personality. Competence and excellent prospects for your projects. 
 
 > We support customers from all major sectors of industry throughout the product development process.
 
-I support employers, colleagues, and customers (from any industry sector) throught the product (or service) development process.
+I support employers, colleagues and clients from any industry sector throughout the software development process.
 
 > We offer a wide range of development services.
 
