@@ -1,6 +1,6 @@
 # Online application form
 
-<a href="https://www.alten.at/en/career/apply/3461/">
+<a href="https://www.alten.at/en/career/apply/3461">
   <img src="software-developer-csharp/media/online-application-form.png" alt="Online application form">
 </a>
 
@@ -11,7 +11,7 @@
 - **Salutation\*** is referenced as **Form of address** ("for addressing properly and personally") in the aside area; its drop-down does not contain "Mx." ("Misc." / "Ind."), contained in the job title ("m/f/**d**").
 - **Date of birth**, "for differentiating applicants" ("der **sicheren** Unterscheidung von Bewerbern" in German version), which sounds strange, being non-mandatory and non-unique by its nature (multiple applicants being born on the same date, unlikely, nonetheless possible), in comparison with the mandatory email address / phone number. 
 - **Salary requirement in € per year** in contrast to the (inclusive lower bound of the) **monthly** salarly (range) given in the job description, ignoring the possibility of ranged expectations (depending on offered conditions) from the applicant's perspective; marked as mandatory, being non-mandatory ("No salary requirements"); with inconsequent pluralization (requirement / requrement**s**).
-- (Nonexistent) English localization of: "Mitarbeiterempfehlung", "Plakatkampagne", "Sonstige Aushänge", "Bewerbungsmappencheck", "Deutschlandstipendium", "Infostand", "Studententag", etc.
+- (Nonexistent) English localization of: "Startseite", "Mitarbeiterempfehlung", "Plakatkampagne", "Sonstige Aushänge", "Bewerbungsmappencheck", "Deutschlandstipendium", "Infostand", "Studententag", etc.
 - **Where did you hear about ALTEN?\*** has drop-down values of different magnitudes (regarding scope of the used terms) like "Facebook", "Studyflix", and "Website" (Facebook and Studyflix being corporate entities [portals / social networks] having websites); the latter seems to represent "Somewhere else on the Internet [newsgroup, chat, forum, etc.] / Unspecified", meaning being not strictly mandatory, like 
 - **At which job market did you find out about us?\*** given "Job market" as an definite answer to the previous question with the "Other job portals" drop-down value available as an answer for this one, hyperbolized in the following sample:
 
@@ -50,4 +50,4 @@ Consistency is key:
 |E-mail|Email address|
 |Short letter/Comments|Your message|
 
-Salutation is not mandatory on the contact form, which makes "addressing properly and personally" (from the application form) less important to you, while giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
+Salutation is not mandatory on the contact form, which makes "addressing properly and personally" (from the [application form](https://www.alten.at/en/career/apply/3461)) less important to you, while giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
