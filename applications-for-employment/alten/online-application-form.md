@@ -4,8 +4,6 @@
   <img src="software-developer-csharp/media/online-application-form.png" alt="Online application form">
 </a>
 
-![Bubu](software-developer-csharp/media/online-application-form.png)
-
 ## Inconsistencies
 
 - Field title and drop-down value casing (**T**itle **C**ase / **S**entence **c**ase [I'd enforce the latter]).
