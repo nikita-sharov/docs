@@ -24,7 +24,7 @@ c) Tomatoes
 d) Other vegetables
 
 For placing concrete orders, if missing;
-for you to find in our refreshment area with a success rate of 46 percent, approximately.)
+for you to find in our refreshment area with a success rate of 46 percent, approximately.
 ```
 
 ### Wording
