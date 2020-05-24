@@ -1,7 +1,5 @@
 # Online application form
 
-https://www.alten.at/en/career/apply/3461/
-
 ![Bubu](software-developer-csharp/media/online-application-form.png)
 
 ## Validation
@@ -54,4 +52,4 @@ Consistency is key:
 |E-mail|Email address|
 |Short letter/Comments|Your message|
 
-Please note, that salutation is not mandatory on the contact form, which makes "addressing properly and personally" (from the application form) less important to you, while giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
+Salutation is not mandatory on the contact form, which makes "addressing properly and personally" (from the application form) less important to you, while giving you the technical ability to sort or filter the applications by applicant's sexual characteristics (hypothetically speaking).
