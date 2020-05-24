@@ -1,10 +1,10 @@
 # Online application form
 
+<a href="https://www.alten.at/en/career/apply/3461/">
+  <img src="software-developer-csharp/media/online-application-form.png" alt="Online application form">
+</a>
+
 ![Bubu](software-developer-csharp/media/online-application-form.png)
-
-## Validation
-
-- No / unclear max length constraints.
 
 ## Inconsistencies
 
@@ -28,7 +28,7 @@ d) Other vegetables
 (For placing concrete orders, if missing; for you to find in our refreshment area.)
 ```
 
-## Wording
+### Wording
 
 `Actual term. "Proposal", justification.`
 
@@ -36,7 +36,7 @@ d) Other vegetables
 - **Telephone\***. "Primary phone" [number], as it might be a mobile one at the same time; the one to be used first.
 - **Mobile**. "Secondary phone" [number], as a fallback; a mobile phone is a telephone too - its counterpart would be a stationary phone, being a technical feature you don't care about, I suppose. For the sake of completeness, I wouldn't differentiate between a business and a personal phone either, in this case at least: while calling an applicant during business hours using a business phone, you don't want to use applicant's current business phone number, right? To cut a long story even shorter: I'd ask for a single personal "phone" [number], being a mobile one nowadays, having a mobile box as a fallback, besides the mandatory personal e-mail address (secured by a single, most likely the same, mobile phone using two-factor authentication).
 
-## Cross-cutting concerns
+### Cross-cutting concerns
 
 Consistency is key:
 
