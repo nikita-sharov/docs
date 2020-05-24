@@ -30,7 +30,7 @@ d) Other vegetables
 
 `Actual term. "Proposal", justification.`
 
-- **First ~~N~~name\***. "Forename", in symmetry to the "surname" as it's counterpart (not "last name", actually), in consistence with "Your forename" on the [contact form](https://www.alten.at/en/contact.html).
+- **First ~~N~~name\***. "Forename", in symmetry to the "surname" as it's counterpart (not "last name", actually), in consistence with "Your forename" on the contact form.
 - **Telephone\***. "Primary phone" [number], as it might be a mobile one at the same time; the one to be used first.
 - **Mobile**. "Secondary phone" [number], as a fallback; a mobile phone is a telephone too - its counterpart would be a stationary phone, being a technical feature you don't care about, I suppose. For the sake of completeness, I wouldn't differentiate between a business and a personal phone either, in this case at least: while calling an applicant during business hours using a business phone, you don't want to use applicant's current business phone number, right? To cut a long story even shorter: I'd ask for a single personal "phone" [number], being a mobile one nowadays, having a mobile box as a fallback, besides the mandatory personal e-mail address (secured by a single, most likely the same, mobile phone using two-factor authentication).
 
