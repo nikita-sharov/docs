@@ -2,6 +2,8 @@
 
 https://www.alten.at/en/career/apply/3461/
 
+![Bubu](software-developer-csharp/media/online-application-form.png)
+
 ### Validation
 
 - No / unclear max length constraints.
