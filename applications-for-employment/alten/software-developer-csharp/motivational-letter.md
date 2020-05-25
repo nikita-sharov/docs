@@ -12,17 +12,10 @@ I am the ~~law~~ competence (in person), which means: excellent prospects for yo
 
 > The burden of proof as to any particular fact lies on that person [author] who wishes the Court [reader] to believe in its existence.
 
-Hmm, let me talk about my imperfection, to re-gain some credibility, the other way round:
+OK, let me talk about my imperfection then, to re-gain some credibility, turning the narrative upside down, trying to define me by demarcation from what I am not; so my limitations are:
 
-- I have no domain knowledge of the semicond industry (yet).
+- I have no domain knowledge of the semiconductor industry (yet).
 - I have an incompleted technical education (University) in software development.
-
-According to my superficial, quick search based understanding, 
-
-> **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
-
-[TCE](http://openasip.org/) is [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code).
-
 - My WPF / MVVM knowledge is more theoretical than practial.
 - My English skills are basic in comparison to my German skills.
 
@@ -33,6 +26,12 @@ Nikita Sharov
 
 
 
+
+According to my superficial, quick search based understanding, 
+
+> **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
+
+[TCE](http://openasip.org/) is [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code).
 
 
 ### What characterizes me
