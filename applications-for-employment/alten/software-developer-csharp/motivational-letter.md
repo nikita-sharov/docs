@@ -6,9 +6,34 @@ Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement
 
 Dear Mrs. Stankovic,
 
-I am a highly-qualified, experienced and well-educated software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required. I support employers, colleagues and clients from any industry sector throughout the software development process: I develop, design, program, document, test and manage software from the idea to the deployment and maintenance.
+I am a highly-qualified, experienced and well-educated software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required. I support employers, colleagues and clients from any industry sector throughout the software development process: I develop, design, program, document, test and manage software(projects) from the idea to the deployment and maintenance.
 
-Multifaceted personality. Competence and excellent prospects for your projects. My projects are always success- and future-oriented, and I always enrich the others, being highly enthusiastic about that and fascinated by technology as well
+I am the ~~law~~ competence (in person), which means: excellent prospects for your projects.  My projects are always success- and future-oriented, and I always enrich the others, being highly enthusiastic about that and fascinated by technology on the daily basis...
+
+> The burden of proof as to any particular fact lies on that person [author] who wishes the Court [reader] to believe in its existence.
+
+Hmm, let me talk about my imperfection, to re-gain some credibility, the other way round:
+
+- I have no domain knowledge of the semicond industry (yet).
+- I have an incompleted technical education (University) in software development.
+
+According to my superficial, quick search based understanding, 
+
+> **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
+
+[TCE](http://openasip.org/) is [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code).
+
+- My WPF / MVVM knowledge is more theoretical than practial.
+- My English skills are basic in comparison to my German skills.
+
+But at night ... I'm ~~bat~~ [hackman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
+
+Kind regards,  
+Nikita Sharov
+
+
+
+
 
 ### What characterizes me
 
@@ -71,11 +96,7 @@ I offer ...
 
 > In the course of this you stabilize the TCE architecture and you provide the connection to JAMA
 
-According to my superficial, quick search based understanding, 
 
-> **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
-
-[TCE](http://openasip.org/) is [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code).
 
 > You are responsible for providing advanced functions collecting within user surveys
 
@@ -85,7 +106,7 @@ According to my superficial, quick search based understanding,
 
 > You have a completed technical education (University/University of Applied Sciences) in software development, computer science or equivalent
 
-I have an incompleted technical education in software development.
+I have an incompleted technical education (University) in software development.
 
 > Relevant professional experience with C#, preferably with v7+, as well as solid knowledge in DI and IoC and NuGet package management are required for this position
 
