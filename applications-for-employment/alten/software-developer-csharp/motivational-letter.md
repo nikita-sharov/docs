@@ -2,13 +2,70 @@
 
 Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement from / renewed on 5/15/2020, see [print version](media/karriere.at.pdf)) as on [alten.at](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst/) (reference number: 3461, see [print version](media/alten.at.pdf)) for Graz.
 
-## ALTENative application
-
-> The burden of proof as to any particular fact lies on that person [author] who wishes the Court [reader] to believe in its existence.
+## Conservative application
 
 Dear Mrs. Stankovic,
 
-### Tasks
+I am a highly-qualified, experienced and well-educated software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required. I support employers, colleagues and clients from any industry sector throughout the software development process: I develop, design, program, document, test and manage software from the idea to the deployment and maintenance.
+
+Multifaceted personality. Competence and excellent prospects for your projects. My projects are always success- and future-oriented, and I always enrich the others, being highly enthusiastic about that and fascinated by technology as well
+
+### What characterizes me
+
+- I am highly-qualified, experienced and well-educated.
+- 
+
+### What I do
+
+- I develop, design, program, document, test and manage software from the idea to the deployment and maintenance.
+
+- I support employers, colleagues and clients from any industry sector throughout the software development process.
+- I cover a range of different tasks continuously gaining experience and expertise.
+- I offer a wide range of development services.
+
+### 
+
+: . Get to know me!
+
+
+
+- Highly-qualified, experienced, well-educated and clever looking person.
+- Extensive expertise in (Russian) classic literature, rich culture, good behaviour and manners.
+- Honesty, reliability, loyalty, accuracy and punctuality.
+- Variable forms of collaboration.
+
+## Jobs and proposals
+
+> Multifaceted projects. Competent teams and excellent prospects for your career. We offer a range of different tasks with a guarantee you will gain experience and expertise.
+
+Multifaceted personality. Competence and excellent prospects for your projects. 
+
+> Join our Team and find your ideal start at ALTEN Austria.
+
+-> Search jobs
+
+## What I do
+
+> We support customers from all major sectors of industry throughout the product development process.
+
+I support employers, colleagues and clients from any industry sector throughout the software development process.
+
+> We offer a wide range of development services.
+
+I offer ...
+
+-> Discover my services
+
+### ALTENative application
+
+> The burden of proof as to any particular fact lies on that person [author] who wishes the Court [reader] to believe in its existence.
+
+
+
+
+
+
+#### Tasks
 
 > As a Software Developer (m/f/d) C# you are responsible for programming software using C# and .NET in the semiconductor industry
 
@@ -28,7 +85,7 @@ According to my superficial, quick search based understanding,
 
 > You have a completed technical education (University/University of Applied Sciences) in software development, computer science or equivalent
 
-I have an incompleted technical education 
+I have an incompleted technical education in software development.
 
 > Relevant professional experience with C#, preferably with v7+, as well as solid knowledge in DI and IoC and NuGet package management are required for this position
 
@@ -40,9 +97,11 @@ I have an incompleted technical education
 
 > Moreover, you have a solid WPF knowledge (control- & data templates, styles, trigger, bindings) as well as experience with MVVM pattern
 
-
+My WPF / MVVM knowledge is more theoretical than practial.
 
 > Fluent English and basic German skills complete your profile
+
+My English skills are basic in comparison to my German skills (is basic and German fluent
 
 in descending order by experience
 
@@ -53,6 +112,6 @@ in descending order by experience
 
 Pleaso note, that I have not received any feedback on my written English since school (therefore I can't guarantee flawless style and grammar.)
 
-I looks like my peers can understand me.
+I looks like my peers can understand me though.
 
 For my German skills, being my second native language, see https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md. 
