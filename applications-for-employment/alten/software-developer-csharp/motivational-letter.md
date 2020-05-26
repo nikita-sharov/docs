@@ -19,12 +19,14 @@ Oh, let me talk about my imperfection then, to re-gain some credibility, turning
 - My WPF / MVVM knowledge is more theoretical than practical.
 - My English skills are basic in comparison to my German skills.
 
-But at night … I'm ~~bat~~ [hackerman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
+But at night … I am ~~bat~~ [hackerman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
 
-Just kidding,  
+> Fairy-tales, though far from true, teach good lads a thing or two.
+
+With the best of intentions,  
 Nikita Sharov
 
-## Clarification
+## Requires clarification
 
 According to my superficial, quick search based understanding, [TCE](https://github.com/cpc/tce), in the semiconductor industry context,
 
