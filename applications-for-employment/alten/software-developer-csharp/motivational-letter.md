@@ -21,7 +21,7 @@ Oh, let me talk about my imperfection then, to re-gain some credibility, turning
 
 But at night … I am ~~bat~~ [hackerman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
 
-> Fairy-tales, though far from true, teach good lads a thing or two.
+> Fairytales, though far from true, teach good lads a thing or two.
 
 With the best of intentions,  
 Nikita Sharov
