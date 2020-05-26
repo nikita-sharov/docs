@@ -6,33 +6,36 @@ Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement
 
 Dear Mrs. Stankovic,
 
-I am a highly-qualified, experienced and well-educated software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required. I support employers, colleagues and clients from any industry sector throughout the software development process: I develop, design, program, document, test and manage software(projects) from the idea to the deployment and maintenance.
+I am a highly-qualified, experienced and well-trained software developer with many years of experience, gaining in-depth domain knowledge and expert knowledge in any service area required. I support employers, colleagues, and clients from any industry sector throughout the software development process: I develop, design, program, document, test and manage software (projects) from the idea to the deployment and maintenance.
 
-I am the ~~law~~ competence (in person), which means: excellent prospects for your projects.  My projects are always success- and future-oriented, and I always enrich the others, being highly enthusiastic about that and fascinated by technology on the daily basis...
+I offer a wide range of development services, which means: excellent prospects for your projects. My projects are always success- and future-oriented, and I always enrich the others, being highly enthusiastic about that and fascinated by technology on the daily basis...
 
-> The burden of proof as to any particular fact lies on that person [author] who wishes the Court [reader] to believe in its existence.
+> The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence.
 
-OK, let me talk about my imperfection then, to re-gain some credibility, turning the narrative upside down, trying to define me by demarcation from what I am not; so my limitations are:
+Oh, let me talk about my imperfection then, to re-gain some credibility, turning the narrative upside down, trying to define me by demarcation from what I am not; so my limitations are:
 
 - I have no domain knowledge of the semiconductor industry (yet).
 - I have an incompleted technical education (University) in software development.
-- My WPF / MVVM knowledge is more theoretical than practial.
+- My WPF / MVVM knowledge is more theoretical than practical.
 - My English skills are basic in comparison to my German skills.
 
-But at night ... I'm ~~bat~~ [hackman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
+But at night …  I'm ~~bat~~ [hackerman](https://youtu.be/KEkrWRHCDQU?t=134). Believe me.
 
-Kind regards,  
+Just kidding,  
 Nikita Sharov
 
 
+## Clarification
 
-
-According to my superficial, quick search based understanding, 
+According to my superficial, quick search based understanding, [TCE](https://github.com/cpc/tce), in the semiconductor industry context,
 
 > **TTA-based Co-Design Environment** (TCE) is an open application-specific instruction-set processor (ASIP) toolset for design and programming of customized co-processors (typically programmable accelerators). It is based on the energy efficient **Transport Triggered Architecture** (TTA) processor template.
 
-[TCE](http://openasip.org/) is [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code).
+being [written in C/C++](https://github.com/search?q=repo%3Acpc%2Ftce+language%3AC&type=Code),
 
+> TCE has been developed by several researchers (and research assistants) of Tampere University (Finland) and various other international contributors since the early **2003**.
+
+should be stable by now ([v1.21](https://github.com/cpc/tce/blob/master/tce/CHANGES)).
 
 ### What characterizes me
 
@@ -45,7 +48,7 @@ According to my superficial, quick search based understanding,
 
 - I support employers, colleagues and clients from any industry sector throughout the software development process.
 - I cover a range of different tasks continuously gaining experience and expertise.
-- I offer a wide range of development services.
+- .
 
 ### 
 
@@ -89,49 +92,5 @@ I offer ...
 
 
 
-#### Tasks
-
-> As a Software Developer (m/f/d) C# you are responsible for programming software using C# and .NET in the semiconductor industry
-
-> In the course of this you stabilize the TCE architecture and you provide the connection to JAMA
 
 
-
-> You are responsible for providing advanced functions collecting within user surveys
-
-
-
-### Profile
-
-> You have a completed technical education (University/University of Applied Sciences) in software development, computer science or equivalent
-
-I have an incompleted technical education (University) in software development.
-
-> Relevant professional experience with C#, preferably with v7+, as well as solid knowledge in DI and IoC and NuGet package management are required for this position
-
-
-
-> You also have Git experience (at least all basic operations) and understand the importance of feature branches
-
-
-
-> Moreover, you have a solid WPF knowledge (control- & data templates, styles, trigger, bindings) as well as experience with MVVM pattern
-
-My WPF / MVVM knowledge is more theoretical than practial.
-
-> Fluent English and basic German skills complete your profile
-
-My English skills are basic in comparison to my German skills (is basic and German fluent
-
-in descending order by experience
-
-1. Reading (documentation, code, technical journalism, professional literature, correspondence);
-2. Writing (code, documentation, correspondence);
-3. Listening (to multimedia content);
-4. Speaking.
-
-Pleaso note, that I have not received any feedback on my written English since school (therefore I can't guarantee flawless style and grammar.)
-
-I looks like my peers can understand me though.
-
-For my German skills, being my second native language, see https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md. 
