@@ -1,6 +1,6 @@
 # Software Developer C#
 
-Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement from / renewed on 5/15/2020, see [print version](media/karriere.at.pdf)) as on [alten.at](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst/) (reference number: 3461, see [print version](media/alten.at.pdf)) for Graz.
+Posted on [karierre.at](https://www.karriere.at/jobs/5662416) (job advertisement from / renewed on 2020-05-15, see [print version](media/karriere.at.pdf)) as on [alten.at](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst/) (reference number: 3461, see [print version](media/alten.at.pdf)) for Graz.
 
 ## Conservative application
 
