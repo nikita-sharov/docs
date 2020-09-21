@@ -65,7 +65,8 @@ Duplication / reinforcement of the pre-previous sentence; _UX lifecycle_ sounds 
 
 > you are fully comfortable and especially keen to work through business & design problems from beginning to end — e.g. planning and doing UX research, translating insights and data into concepts that form new products and features, designing detailed solutions to make things real, and continuously learning from and iterating upon what you ship
 
-- 
+- [Feather Icon Inspector]()
+- [Feather Icons]()
 
 > you got plenty of experience successfully collaborating with multidisciplinary teams of product managers, engineers, designers, and other business stakeholders
 
@@ -91,6 +92,8 @@ Duplication / reinforcement of the pre-previous sentence; _UX lifecycle_ sounds 
 - [Speech to Text](https://github.com/235u/proposals/tree/master/SpeechToText)
 - [Throttled Scraper](https://github.com/235u/proposals/tree/master/ThrottledScraper)
 - [Game Price Comparison](https://github.com/235u/proposals/tree/master/GamePriceComparison)
+- [Outlook Synchronisation](https://github.com/235u/proposals/tree/master/OutlookSynchronisation)
+
 
 > Join us now! 
 
