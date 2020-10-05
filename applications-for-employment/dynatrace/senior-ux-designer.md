@@ -76,7 +76,7 @@ Duplication / reinforcement of the pre-previous sentence; _UX lifecycle_ sounds 
 
 > you master both fine art & skills to effectively communicate and present your POVs and works across the board — you’ll use this daily to help people across the company understand the rationale behind your proposals, and the complex nuances of design problems 
 
-- [²³³U.NET]()
+- [niki]()
 
 > you are not afraid of collaborating with geographically dispersed teams. While you’ll be part of an amazing global design team, you’ll be the first local UX design practitioner in Graz 
 
@@ -85,14 +85,13 @@ Duplication / reinforcement of the pre-previous sentence; _UX lifecycle_ sounds 
 
 > you are a motivated self-starter — with a strong growth mindset, desire to humanize things, willing to own problems, with a balanced sense of optimism and humility, and at comfort with ambiguity 
 
-- 
+- [Outlook Synchronisation](https://github.com/235u/proposals/tree/master/OutlookSynchronisation)
 
 > When applying for this role please include a link to a brief portfolio showing a few selected commercial projects you worked on in the past — clearly outlining the problems and/or business opportunities taken on with your work, as well as your role and specific responsibilities as part of a multidisciplinary team. That should mostly touch on the process applied to find solutions and overcome challenges, rather than focusing just on visual polish and final deliverables.
 
 - [Speech to Text](https://github.com/235u/proposals/tree/master/SpeechToText)
 - [Throttled Scraper](https://github.com/235u/proposals/tree/master/ThrottledScraper)
 - [Game Price Comparison](https://github.com/235u/proposals/tree/master/GamePriceComparison)
-- [Outlook Synchronisation](https://github.com/235u/proposals/tree/master/OutlookSynchronisation)
 
 
 > Join us now! 
