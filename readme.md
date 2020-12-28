@@ -6,4 +6,5 @@
 
 |Company|Vacancy|Posted on|
 |:----------|:-------|:---------------:|
-|[ALTEN Austria Süd GmbH](https://www.alten.at)|[Software Developer C#](applications-for-employment/alten/software-developer-csharp/motivational-letter.md)|2020-05-15|
+|[Bongfish GmbH](https://www.bongfish.com/)|[Game Designer, Junior](applications-for-employment/bongfish/junior-game-designer.md)|?|
+|[ALTEN Austria Süd GmbH](https://www.alten.at)|Software Developer C#, [Conservative](applications-for-employment/alten/software-developer-csharp/motivational-letter.md) / [ALTENative](https://github.com/nikita-sharov/alten) Application|2020-05-15|
